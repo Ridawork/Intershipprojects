@@ -1,0 +1,2 @@
+<?php
+return array("#tableName"=>"profil","#primaryKeys"=>array("idProfil"),"#manyToOne"=>array(),"#fieldNames"=>array("idProfil"=>"idProfil","code"=>"code","libelle"=>"libelle"),"#memberNames"=>array("idProfil"=>"idProfil","code"=>"code","libelle"=>"libelle"),"#fieldTypes"=>array("idProfil"=>"int(11)","code"=>"varchar(30)","libelle"=>"varchar(30)"),"#nullable"=>array(),"#notSerializable"=>array(),"#transformers"=>array(),"#accessors"=>array("idProfil"=>"setIdProfil","code"=>"setCode","libelle"=>"setLibelle"));
